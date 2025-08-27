@@ -1,3 +1,10 @@
 [
-  { "key": "INITIALKEY123", "ip": null }
+  {
+    "key": "INITIALKEY123",
+    "ip": null
+  },
+  {
+    "key": "53F8F2ED2CC3F879",
+    "ip": null
+  }
 ]
